@@ -21,3 +21,5 @@ In this exercise, learners/lecturers will write queries that create a database a
 <br />
 
 ## References
+
+None.
